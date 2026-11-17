@@ -1,4 +1,4 @@
-# Base de Conhecimento Técnico — Manutenção de Computadores (UC 3)
+# Base de Conhecimento Técnico — Máquinas Virtuais (VMs) (UC 3)
 
 Repositório colaborativo da turma do curso **Técnico em Informática (031.2026.0012)** para construção de guias rápidos de diagnóstico, prevenção e manutenção de computadores.
 
