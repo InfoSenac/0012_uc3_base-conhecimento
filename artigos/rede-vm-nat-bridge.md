@@ -10,6 +10,7 @@ Utilize este procedimento quando uma máquina virtual (VM) Windows ou Linux, exe
 2. Habilite Connected e Connect at power on.
 3. Selecione o modo de rede adequado:
 > NAT: compartilha a conexão de internet do host.
+
 > Bridge: conecta a VM diretamente à rede física, utilizando IP próprio.
 4. No modo NAT, verifique se os serviços VMware DHCP Service e VMware NAT Service estão ativos no host. No modo Bridge, confirme o adaptador físico correto no Virtual Network Editor.
 5. Inicie a VM e renove o endereço IP.
