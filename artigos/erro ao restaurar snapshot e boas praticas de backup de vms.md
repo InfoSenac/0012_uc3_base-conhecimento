@@ -22,5 +22,3 @@ Quando a VM apresentar falha ao usar um snapshot e exibir mensagens de erro, arq
    VBoxManage list vms
    ```
 5. **Teste de Validação:** Inicie a máquina virtual restaurada ou clonada e confirme se o sistema operacional abrirá normalmente sem alertas de disco ou perda de arquivos.
-
-linha de erro linha de erro
